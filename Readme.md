@@ -2,7 +2,7 @@
 
 Service is using <a href="https://voyageai.com">Voyage AI</a> for embedding and <a href="https://www.trychroma.com">Chroma Db</a> for storing vectors 
 
->Please, create .env in the root folder of the project and set up VOYAGE_API_KEY
+Before running, create a .env file in the root folder of the project and set up VOYAGE_API_KEY
 
 ```shell
 touch .env
