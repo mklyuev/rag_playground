@@ -7,7 +7,7 @@ Service is using <a href="https://voyageai.com">Voyage AI</a> for embedding and 
 To run, start a docker compose:
 
 ```shell
-cd docker && docker-compose up -d
+docker-compose up -d
 ```
 
 ## Endpoints
