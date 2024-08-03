@@ -1,0 +1,4 @@
+python-dotenv
+voyageai
+aiofiles
+chromadb==0.5.3
