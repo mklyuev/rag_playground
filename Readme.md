@@ -4,6 +4,11 @@ Service is using <a href="https://voyageai.com">Voyage AI</a> for embedding and 
 
 >Please, create .env in the root folder of the project and set up VOYAGE_API_KEY
 
+```shell
+touch .env
+echo VOYAGE_API_KEY=<api_key> > .env
+```
+
 To run, start a docker compose:
 
 ```shell
